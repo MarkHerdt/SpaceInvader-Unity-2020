@@ -1,0 +1,12 @@
+-Main menu sound verzögerung
+-Mouse lag
+-Canvas / camera size
+-Bullet Barrage Replenish verzögerung
+-Buffs
+-Particle instantiate
+-Collision ref aus anderem script bekommen
+-Referenzen auf objekte die noch nicht gespawnt sind
+-Audio abspielen
+
+
+
